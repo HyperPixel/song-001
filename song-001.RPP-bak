@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "4.62/x64" 1401549440
+<REAPER_PROJECT 0.1 "4.62/x64" 1401549615
   RIPPLE 0
   GROUPOVERRIDE 1 0 0
   AUTOXFADE 1
@@ -12,8 +12,8 @@
   GRID 3199 8 0.25 8 1 0 0
   TIMEMODE 1 0 -1
   PANMODE 3
-  CURSOR 214.66666666666634
-  ZOOM 16.52285894340331 2590 0
+  CURSOR 115.333333333333
+  ZOOM 4.20945479399103 0 0
   VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
@@ -112,7 +112,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -174,15 +174,15 @@
       <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" "chipsounds VST_x64.dll" 0 ""
         T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAACpAwAAAQAAAAAAEABDRUdQExkAAHic7Vlbj9o6EH4/Uv+Dlaf2YRM7V1JBKwrLFqmcosKRjvpSmcRlrToJJ3bo
         bn99xwlZwrU5VS9albEQzuTzeD4P9tim+/IuEWjNcsmztGcQExvo5Ysnf3X7OaczumaNd74fGmiVZ3ERqfEQFBiHBmARSHfGlOLpUqL/Ciq4uofXBpIqZzQBdc9wbAMl
-        9G5WavpCZNHkVc/wCKgn4+H4baEmWczKVrRQWUIVdDoTmeoZuKkSbM1Ez+Ap2C4SlioDCb5mVWNAyqhnuNqqjKigoCLoCjHtlCkjsVEPoB3Le4YPDZYiW1AxL9LSTWzi
-        UgxkPTADJxCPS+spTXQ3xETTImdocMtX1nByoz/oaZEKnnDF4mcGWtD00zjejBGKbmmaarevgN4qE9XoqIM+V4sPOU2XTAO3SgU6WXafNKqF2hD+/EFQWQ7TxuPS635x
-        Vzu9pqLQWNMNdqmVwAnl6R6SHAzCLpI0bJ5H2q2RTmuk2xrptUb6rZFBa2SnNTJsjSS4PbR9lEj7MJH2cSLtA0W+GakpzWmy8aBJLPSx75wBu1tqpHPC9pzmS6Y2czvK
-        EnMqsmXBTL0Emm9Gb81CsnxndpXNBoWERWlIFUXqfgVNbdvx9aLHv8CDq8NfL53QI0tjTqtqDE2gUsuo+rLxj5U9klbF8n/zJn8Y73fgMMthXZ4xqUmYUrHVLwu+a2On
-        rHTwNR5AGcLnFZQQ96GEUEaN4mECpYNhEkDd2775/kGY53y5ZPkMUiZLI5Z/mzkJbBLWzG2vwdw+xpxsiG+keg7KujMIRuFOMAfYOc+la+n0fJCqyfFUbffxv9a7KXw5
-        6Onf89ng52RqvZ6eTdVkZ1ZdUvAlBT+qFNwMQMfxzkEfS7b23d+cti5ykYt8v/yu7e5l4bjIRR6x/KFHpeuPH1mkDu82+8mCazZ7B6PjG7ady8XQwU7n9N6uAbUdOwhO
-        bwOb+1sX9oHktNXmptU7Fs7jm1biE9v1Tvva5OWRIAyD09gmsaBjO67buDu2tsNcq27+GddjRyPF12xc3XLb9fP1w623ZAIas3hOF/vXu9OcSaYmLC0QlyVeH1PLcJ//
-        jSLF7gByhViyUvfoCk6tVN32jPfPLX1EllmRxtKqzEvrjCXrwYRJIYOu9kdo6yCTNaGmgzc0z7miqbn9xVWuTWEWZOg1FQKR2rvBc3ApW+pBH3HBwMHSKUvn7h1nD6xa
-        TXP7nnYtiIb+t8Oq/+6Ah6+b9dtnAAAQAAAA
+        9G5WavpCZNHkVc/wCKgn4+H4baEmWczKVrRQWUIVdDoTmeoZuKkSbM1Ez+Ap2C4SlioDCb5mVWNAyqhnuMTRFSooqAi6Qkw7ZcpIbNQDaMfynuFDg6XIFlTMi7R0E5u4
+        FANZD8zACcTj0npKE90NMdG0yBka3PKVNZzc6A96WqSCJ1yx+JmBFjT9NI43Y4SiW5qm2u0roLfKRDU66qDP1eJDTtMl08CtUoFOlt0njWqhNoQ/fxBUlsO08bj0ul/c
+        1U6vqSg01nSDXWolcEJ5uockB4OwiyQNm+eRdmuk0xrptkZ6rZF+a2TQGtlpjQxbIwluD20fJdI+TKR9nEj7QJFvRmpKc5psPGgSC33sO2fA7pYa6ZywPaf5kqnN3I6y
+        xJyKbFkwUy+B5pvRW7OQLN+ZXWWzQSFhURpSRZG6X0FT23Z8vejxL/Dg6vDXSyf0yNKY06oaQxOo1DKqvmz8Y2WPpFWx/N+8yR/G+x04zHJYl2dMahKmVGz1y4Lv2tgp
+        Kx18jQdQhvB5BSXEfSghlFGjeJhA6WCYBFD3tm++fxDmOV8uWT6DlMnSiOXfZk4Cm4Q1c9trMLePMScb4hupnoOy7gyCUbgTzAF2znPpWjo9H6RqcjxV2338r/VuCl8O
+        evr3fDb4OZlar6dnUzXZmVWXFHxJwY8qBTcD0HG8c9DHkq199zenrYtc5CLfL79ru3tZOC5ykUcsf+hR6frjRxapw7vNfrLgms3ewej4hm3ncjF0sNM5vbdrQG3HDoLT
+        28Dm/taFfSA5bbW5afWOhfP4ppX4xHa90742eXkkCMPgNLZJLOjYjus27o6t7TDXqpt/xvXY0UjxNRtXt9x2/Xz9cOstmYDGLJ7Txf717jRnkqkJSwvEZYnXx9Qy3Od/
+        o0ixO4BcIZas1D26glMrVbc94/1zSx+RZVaksbQq89I6Y8l6MGFSyKCr/RHaOshkTajp4A3Nc65oam5/cZVrU5gFGXpNhUCk9m7wHFzKlnrQR1wwcLB0ytK5e8fZA6tW
+        09y+p10LoqH/7bDqvzvg4Su0MdtoAAAQAAAA
       >
       FLOATPOS 230 328 887 527
       FXID {3B189A88-E2AC-4E02-9911-A3CDE76BEB4F}
@@ -3315,7 +3315,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -3424,15 +3424,15 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: chipsounds (x86) (Plogue Art et Technologie, Inc)" "chipsounds VST_x86.dll" 0 ""
-        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
+        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
-        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
+        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
       >
       FLOATPOS 0 0 0 0
       FXID {68E65CB7-3377-4894-923B-6F66E8E58D8E}
@@ -8339,7 +8339,9 @@
       PT 163.33383334 0.566667 0
       PT 173.9995 0.566667 0
       PT 174 0.367347 0
-      PT 227.33333333 0.367347 0
+      PT 216.66616667 0.367347 0
+      PT 216.66666667 0.60910413 0
+      PT 227.33333333 0.61166982 0
       PT 227.33383333 0.566667 0
     >
     <PANENV2
@@ -8368,16 +8370,16 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: chipsounds (x86) (Plogue Art et Technologie, Inc)" "chipsounds VST_x86.dll" 0 ""
-        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
+        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABQAwAAAQAAAAAAEABDRUdQDRMAAHic7VhNb9s4EL0v0P9A6NQeKomyLUtFvEViJ4GBGg3q9NJLQUtThShFaUnK
         m+6v71CWbNlJbaV7WWA9gGF+vBm+maGGoi7eP+aCrEFpXsiJQ13fIe//fPXHxaXibMnW0JkLw9ghpSrSKjHzGQ74fuwglqBcLMEYLjNN/qqY4OYHTjtEGwUsx+GJMwgc
-        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
+        krPHZT1yKUSRLK4mTjAKHbKYz+YfK7MoUqi1WGWKnBlcdCkKM3H87pCANYiJwyXarnKQxiGCr2GjjEidoNUgtA0mGA5R8paAJeXqRDTDU9QDNXFCVMhEsWLivpI1Td/1
+        a3GIt/UMSRCe1tYly+0y1CV3lQIyfeClN1vc2h95XUnBc24gfeOQFZPf52kTI5I8MCkt7bfoXlmITXTMkzXL1VfFZAYWuBs0OKbr5fNOszKNw39/FUzXYWoY16wXjMuW
+        9ZqJCurkHvi2j6Rb5NMo7COD3shBb+SwN3LUGxn2Ro57I6PeyLg3kvr9of2zRPunifbPE+2fKHoyU3dMsfyZzTc6Bu26FcdHrY67O2AYxTQc/xIbdbH0BNtBl280ioIw
+        +jV4uGNMo5ORiP3dbhieBtNTz3cX3A0dDY5GOfZPJroL3qWaBrEbWfTgCHwX6+B52/dMZWCagpsUuXsniqwC155L7oebj26lQe2VvFptWmk8KWbMMGJ+lNZ8MAjtScT/
+        seEMrU/tgYZLgkw52zRT1MFGKzebv8A/y1nO8l+RgyrhbcrEiwsHPReOs5zlfyT/snB8wgceFF7XlqBtEXC1gfLFrx/RbxaR8axpRv4M52b4H9TTL+z/fhDuFc8yUEu8
+        SYNMQJ32nI4DGreeB6OO58FzntPG8UY2/XHdHkzHN/FeMqf+4OaoLxeevbW3netv3yAxT+/xl/mKW28Or+vbq//t53mrwRLD1zDffZGo+9fbvgaBa0B6z1bWw733XgUa
+        zAJkRbhu8aam23ujEQOPiB5ecUOGjxhViaxLZh4mzpd3nv0OoYtKptrbLKa9Q7tLNHOdclMor2vEZThZHr6o9yZcQpZxhkZbgleCly8gttX3rOIpMvAsmVumFDdMurt0
+        NlyYEKoockJbRp3Uephb+53Laz90YecnRqdyggAAEAAAAA==
       >
       FLOATPOS 24 24 296 212
       FXID {68E65CB7-3377-4894-923B-6F66E8E58D8E}
@@ -11848,6 +11850,351 @@
         CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.03125 -1894 53 -3 1087 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
       >
     >
+    <ITEM
+      POSITION 216.66666666666634
+      SNAPOFFS 0
+      LENGTH 10.66666666666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {3D6F65B0-E0FC-4AB8-B78D-B8EF105631A3}
+      IID 199
+      NAME "NES Pulse untitled MIDI item glued"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5DBE55E-2FBB-4E50-AE0C-0F35B22B6EF9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {67B66765-FBF2-4239-88F2-AA2C566992D2}
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 1080 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 1080 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 40 6d
+        E 120 80 40 00
+        E 120 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 58 6d
+        E 120 80 58 00
+        E 0 90 4c 6d
+        E 120 80 4c 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 120 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 120 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 120 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 1080 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 120 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 120 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 120 90 54 6d
+        E 120 80 54 00
+        E 0 90 60 6d
+        E 120 80 60 00
+        E 0 90 54 6d
+        E 120 80 54 00
+        E 0 90 48 6d
+        E 120 80 48 00
+        E 1080 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 1080 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 1080 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 45 6d
+        E 120 80 45 00
+        E 120 90 51 6d
+        E 120 80 51 00
+        E 0 90 5d 6d
+        E 120 80 5d 00
+        E 0 90 51 6d
+        E 120 80 51 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 1080 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        E 120 90 53 6d
+        E 120 80 53 00
+        E 0 90 5f 6d
+        E 120 80 5f 00
+        E 0 90 53 6d
+        E 120 80 53 00
+        E 0 90 47 6d
+        E 120 80 47 00
+        e 1080 90 4f 6d
+        e 120 80 4f 00
+        e 0 90 5b 6d
+        e 120 80 5b 00
+        e 0 90 4f 6d
+        e 120 80 4f 00
+        e 0 90 43 6d
+        e 120 80 43 00
+        e 120 90 4f 6d
+        e 120 80 4f 00
+        e 0 90 5b 6d
+        e 120 80 5b 00
+        e 0 90 4f 6d
+        e 120 80 4f 00
+        E 0 b0 7b 00
+        GUID {F4F58467-D4DE-47A7-B05E-7D5B3EC9AFA1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 616
+        VELLANE 128 112 0
+        CFGEDITVIEW 0 0 25 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 0 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 0 1843 986 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
   >
   <TRACK {28F26E83-F6BD-4EF1-A098-2C442180AFB9}
     NAME "Genesis Percussion 1"
@@ -11879,12 +12226,12 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: sforzando (x86) (Plogue Art et Technologie, Inc)" "sforzando VST_x86.dll" 0 ""
-        UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAC1AQAAAQAAAAAAEABDRUdQUQUAAHiclZTJTsMwEIbvSLyD5TtNnIa0SA2IXTlUIAXO1TQZioXjlNiJ4O2ZuHSB
-        ItXkZP/+ZvNkPLn4qBTrsDGy1ikXg5Czi/Pjo8llIyGHDnfOkuSMs2VTl21hsxsSQhFzYhl9kxytlXph2HsLStpPOubM2AahIjnlw4izCj5yp1wqVRfTq5RHpwln0+wm
-        e2jttC7RWUFr6wosBc1VbVMe7koKO1Qpl5p8txVqy5mSHa6MiTQF+RiN+gUoIEmwE4Z9UgNTqG/5muywSXlCBgtVz0E9tdqlGQ5C93EWbCqjJJgsnXcNFYUxL1FwjxqN
-        zO9m+V0UiGgckNEst6BLaErO5qDfMrKJna/iFbTu0z6h8pa1ottJYs7sXtDlfNaAXmBPbkVLmnHxq51la13F32m6VKcg9TrVDlSLrqO/CvpJig25X/pPMvImh95k7E2e
-        epOJNznyJsfe5Jk3KUJ/1L9Lwr9Nwr9Pwr9R4mCnHqGBatWq5NB/umXFUPwDjrfXIMZ/DHXQT/V6c/+cracGCkuvSbZ9eNz+drM3qLCwWD7B3M1O73ASrB9L2nwBNttV
-        xQAAEAAAAA==
+        UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAC1AQAAAQAAAAAAEABDRUdQUQUAAHiclZTJTsMwEIbvSLyD5TtNnKahSA0IKK1yqEAKnKtpMhQLxymxE8HbMzF0
+        YZEwOdm/v9k8GU8uXivFOmyMrHXKxSDk7OL8+Ghy2UjIocODsyQ542zT1GVb2GxKQihiTiyjb5KjtVKvDXtpQUn7RsecGdsgVCSnfBhxVsFr7pRLpepicZXyaJRwtsim
+        2W1rF3WJzgpaW1dgKWiuapvy8FBS2KFKudTku61QW86U7PDDmEhTkI/Tcb8ABSQJdsKwT2pgCvUpX5MdNilPyGCt6hWo+1a7NMNB6D7Ogl1llASTpfOuoaIw5jEK5qjR
+        yHy2zGdRIKJxQEbL3IIuoSk5W4F+zsgmdr6KJ9C6T/uEytvUim4niTmzP4JuVssG9Bp7ci9a0oyLXx0sW+sq/kzTpboAqbepdqBadB39VtBXUuzIn6V/JSNvcuhNxt7k
+        yJtMvMlTb3LsTZ55kyL0R/27JPzbJPz7JPwbJf7s1B00UH20KvnrP92zYij+Acf7axDjX4Y66Kd6u5k/ZNupgcLSa5LtHx63v9ntDSosLJb3sHKz0zucBNvHkjbvO1VV
+        xgAAEAAAAA==
       >
       FLOATPOS 0 0 0 0
       FXID {32A31022-5359-4601-86DA-5CD7109E94AD}
@@ -15907,9 +16254,9 @@
       <VST "VSTi: sforzando (x86) (Plogue Art et Technologie, Inc)" "sforzando VST_x86.dll" 0 ""
         UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAC0AQAAAQAAAAAAEABDRUdQTgUAAHiclZTJTsMwEIbvSLyD5TtNnIbQSg2IXTlUIAXO1TQdioVjl9gJ8PZMDF1Y
         JExO9u9vNk/Gk5PXWrEOGyuNzrkYxJydHO/vTU4bCSV0uHOWZWPOVo1ZtJUrLkiIRcqJZfRNSnRO6qVlzy0o6d7omDPrGoSa5JwPE85qeC29cqqUqaZnOU8OM86mxUVx
-        07qpWaC3gtaZGhwFLZVxOY93JYUdqpxLTb7bGrXjTMkOP4yJtBX5GB/1C1BAkmAHDPukBrZSn/I52WGT84wMlsrMQd212qcZD2L/cRZtKqMkmFx47xpqCmMfkugaNVpZ
-        Xs3KqyQSySiKRTa7NS/YcDYH/VSQQeodVY+gdZ/zAdW2MoquJks5cz8iruazBvQSe3IrOtKsD17vLFvny/3M0ec5BanXeXagWvTt/FbNV1JsyJ91fyWTYHIYTKbB5GEw
-        mQWTR8HkKJgcB5MiDkfDuyTC2yTC+yTCGyX+7NQtNFB/tCr76z/dsmIo/gGn22sQo18mOupHer25vi/WUwOVo6ek2L46fn+52VtUWDlc3MHcz07vcBKtX0ravAOWe1Sq
+        07qpWaC3gtaZGhwFLZVxOY93JYUdqpxLTb7bGrXjTMkOP4yJtBX5GI/6BSggSbADhn1SA1upT/mc7LDJeUYGS2XmoO5a7dOMB7H/OIs2lVESTC68dw01hbEPSXSNGq0s
+        r2blVRKJZBTFIpvdmhdsOJuDfirIIPWOqkfQus/5gGpbGUVXk6WcuR8RV/NZA3qJPbkVHWnWB693lq3z5X7m6POcgtTrPDtQLfp2fqvmKyk25M+6v5JJMDkMJtNg8jCY
+        zILJo2ByFEyOg0kRh6PhXRLhbRLhfRLhjRJ/duoWGqg/WpX99Z9uWTEU/4DT7TWI0S8THfUjvd5c3xfrqYHK0VNSbF8dv7/c7C0qrBwu7mDuZ6d3OInWLyVt3gGa8lSr
         AAAQAAAA
       >
       FLOATPOS 24 24 296 212
@@ -18658,7 +19005,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -18704,12 +19051,12 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: sforzando (x86) (Plogue Art et Technologie, Inc)" "sforzando VST_x86.dll" 0 ""
-        UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAC0AQAAAQAAAAAAEABDRUdQKgUAAHicjZRLT8MwDMfvSHyHKHfWpitlSCto4zH1MIFUOFdeZ0ZEmo4mrca3xw17
-        8ZBITrHzs/N3XWd8vakU67AxstYpF4OQs+ur05PxpJGQQ4dHZ0lyydm6qZdtabNbcoQi5sQyWuMcrZV6Zdh7C0raDzrmzNgGoSJ3yocRZxVscueZKFWX82nKo/OEs3l2
-        mz20dl4v0UVBa+sKLF2aq9qmPDx2KexQpVxqyt1WqC1nSnb4FUykKSlHNOo3oIBcgp0x7EUNTKm27huKwyblCQWsVL0A9dRqJzMchG5xFuwrIxFMLl12DRVdY16iYIYa
-        jczvi/w+CiggCIejIv/Q9rWYgjEF1bEA/ZZRXOzyla+gdS/9jI7WtaIvlMSc2V8XrxdFA3qFPXlwWvIZp6E62rbWVb2V6uTOQeqd3A5Ui66rP4r6Too9+bv872TkTQ69
-        ydibPPcmE2/ywpsceZOX3qQI/VH/Lgn/Ngn/Pgn/Rol/O/UIDVRbBeK/H/UIjg+lidEfwxr007ozZs/ZbhKgtPRKZIcHxdl3e9ugwtLi8gkWXxPaZxwHu1eQjE8xJE1j
-        AAAQAAAA
+        UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAACzAQAAAQAAAAAAEABDRUdQKgUAAHicjZRNT8MwDIbvSPyHKHfWpitlk1YQ3+phAqlwrrzOjIg0HU1awb/HzT5h
+        SEtOsfPYeV3XmVx9VYp12BhZ65SLQcjZ1eXpyeS6kZBDh3tnSTLmbNnU87a02R05QhFzYhmtSY7WSr0w7LMFJe03HXNmbINQkTvlw4izCr5y57lWqi6nNymPzhPOptld
+        9tTaaT1HFwWtrSuwdGmuapvycN+lsEOVcqkpd1uhtpwp2eEqmEhTUo5o3G9AAbkEO2PYixqYUq3dtxSHTcoTClioegbqpdVOZjgI3eIs2FZGIpicu+waKrrGvEXBI2o0
+        Mn8o8ocooIAgHI6K/Fvb9+IGjCmojhnoj4ziYpevfAete+lndLSsFX2hJObMHly8nBUN6AX25M5pyWechmpv21pX9VqqkzsFqTdyO1Atuq7+Keo3KbbkYfm/ycibHHqT
+        sTd57k0m3uSFNznyJsfepAj9Uf8uCf82Cf8+Cf9GiaOdeoYGqrUCcexH3YPjXWli9M+wBv20bozH12wzCVBaeiWy3YPi7PutbVBhaXH+ArPVhPYZJ8HmFSTjBzV3TWQA
+        ABAAAAA=
       >
       FLOATPOS 0 0 0 0
       FXID {29AECA86-6EBE-43DE-A958-531C66ED78B5}
@@ -20306,14 +20653,14 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" "chipsounds VST_x64.dll" 0 ""
-        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAB/AgAAAQAAAAAAEABDRUdQIg8AAHic7VdRb9owEH6ftP9g+Wl7aIgTCIkEqxiUKdJYK4U9VyZxU2uOwxKbtfv1
-        uxjSBhitt6dJ43uJ7/yd786GT7rR5UMh0IZVNS/lGBPHxejyw9s3o0nFaUI3rLMXBBFG66rMdKriGThcN8LARYBRwpTiMq/Rd00FV4+wjVGtKkYLcI+x72FU0IfEeCZC
-        lOni4xgPCLgX8Sy+1mpRZsxEUa3KgipImohSjbHbdQm2YWKMuYSzdcGkwkjwDdsGA7NO4VTzpYKCh6ALxJqanDoVO/cUwlg1xgHwclGuqFhqaap0HdcAo95TY1AD4pk5
-        XNKiyUIcdKMrhqb3fN1L4lkvGIQEvfuyTKbvMVpR+S3OdteD0nsqZVPxBXS2LgVcDLSsjvKtV7cVlTlriM9OBb7apC46S612vf64FbQ2N7Sr1lQ80Q9twRsqNDNposFe
-        W4a4oFweMMnRBewzSffMF5meNdO3ZvatmQNrZmDNHFozQ2tmZM0krj3V/pWI/TMR+3ci9g9FXn2pG1rR4ugn5fdfpHYLCPt+5A9PUonfva5wEHpBeJrcfy6ChCcqXtIq
-        Z2qnFmlZODeizDVzGk11Ps+vHV2zau8/a8KmugaVm1FFkXpcQ6jn+UGjovwnGP2g6akVY0jJZMbpdplBDCxazLcfzz3jjDP+FRyoRG8rE38sHOQsHGec8R/h74VjWfE8
-        Z1UCExCTKatelw4y9EjUSoc36CiH9zvlIAelGns4b+BPh/Nob3Pq+vMXexn1mmmrNa7u7liqjuevSbHiTTeHo9bTyPbpa9xG0FTBdBg/D5LGvnqyayYgB8uWdLUd0ZpD
-        Rr12+gXjF79VXKgAABAAAAA=
+        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAB/AgAAAQAAAAAAEABDRUdQIg8AAHic7VdRb9owEH6ftP9g+Wl7aIgTCIkEqxiUKdJYK4U9VyZxU2uOwxyHtfv1
+        uxjSBhitt6dJ417iO3/n+86GT7rR5UMh0IapipdyjInjYnT54e2b0URxmtAN6+wFQYTRWpVZnep4BgHXjTBgEdgoYVpzmVfoe00F14+wjVGlFaMFhMfY9zAq6ENiIhMh
+        ynTxcYwHBMKLeBZf13pRZsxk0VqXBdVQNBGlHmO3GxJsw8QYcwln1wWTGiPBN2ybDMgqbU5tvlRQiBB0gVjDyalSsQtPIY2pMQ4An4tyRcWyloal67jGMOo9NQYcEM/M
+        4ZIWTRXioJtaMTS95+teEs96wSAk6N2XZTJ9j9GKym9xtrselN5TKRvGF0BqXQq4GGhZH9Vbr24VlTlrgM9BDbHKlC46y1rvev1xK2hlbmjH1jCe1A8t4Q0VNTNlosFe
+        Wwa4oFweIMnRBewjSffMF5GeNdK3RvatkQNrZGCNHFojQ2tkZI0krj3U/pWI/TMR+3ci9g9FXn2pG6pocfST8vsvQrsEwr4f+cOTUOJ3ryschF4Qngb3n0mQ8ATjJVU5
+        0zu1SMvCuRFlXjOn0VTn8/zaqSum9v6zJm1aV6ByM6op0o9rSPU8P2ikjP8Epx80PbViDCWZzDjdLjPIgUVr8+3Hc892trP9K3agEr2tTPyxcJCzcJztbP+R/b1wLBXP
+        c6YSmICYTJl6XTrI0CNRKx3eoKMc3u+UgxxQNf5w3pg/Hc6jvc2p689f7GXUa6at1rm6u2OpPp6/JsWKN90cjlpPI9unr3GbQVMN02H8PEga/+rJr5iAGixb0tV2RGsO
+        GfXa6RecX82hXKkAABAAAAA=
       >
       FLOATPOS 0 0 0 0
       FXID {17BB3492-E3C8-4DEA-A4BD-857862FB3852}
