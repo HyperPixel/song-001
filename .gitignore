@@ -213,3 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Audio
+*.wav
+*.mp3
+*.ogg
+*.flac
